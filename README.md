@@ -2,6 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ewerton-silva00)](https://github.com/ewertonsilva00)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/)
+[![HitCount](http://hits.dwyl.com/ewerton-silva00/ewerton-silva00.svg)](http://hits.dwyl.com/ewerton-silva00/ewerton-silva00)
 
 ### Sobre mim.
 
