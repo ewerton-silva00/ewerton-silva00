@@ -7,7 +7,7 @@
 
 Sou apenas um {{ Analista de Infraestrutura de TI, SysAdmin Linux, SysOps }} esforçado, focado em tecnologias de containers, Kubernetes, Linux, monitoramento, CI/CD, segurança e afins.
 
-:computer: Atualmente trabalho como Analista de Infraestrutura de TI.
-:heart_eyes: Apaixonado por tecnologias Open Source.
+:computer: Atualmente trabalho como Analista de Infraestrutura de TI.  
+:heart_eyes: Apaixonado por tecnologias Open Source.  
 
 ![Ewerton Status](https://github-readme-stats.vercel.app/api?username=ewerton-silva00&show_icons=true)
