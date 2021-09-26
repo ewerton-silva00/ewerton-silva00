@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/ewerton-silva00/ewerton-silva00/main/wave.gif" width="30px">
+# Hello, folks! :wave
 
 My name is `Ewerton Silva` and I'm a [`Site Reliability Engineer`](https://sre.google/). I'm from Brazil, living in Natal/RN. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/).
 
