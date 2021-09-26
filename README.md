@@ -1,19 +1,19 @@
-### Olá, me chamo Ewerton Silva. 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/ewerton-silva00/ewerton-silva00/main/wave.git width="30px">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ewerton-silva00)](https://github.com/ewertonsilva00)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/)
-[![HitCount](http://hits.dwyl.com/ewerton-silva00/ewerton-silva00.svg)](http://hits.dwyl.com/ewerton-silva00/ewerton-silva00)
+My name is `Ewerton Silva` and I'm a [`Site Reliability Engineer`](https://sre.google/). I'm from Brazil, living in Natal/RN. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/).
 
-### Sobre mim.
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-Sou apenas um {{ Analista de Infraestrutura de TI, SysAdmin Linux, SysOps }} esforçado nos estudos.
+## &#x1f4c8; GitHub Stats
 
-:computer: Atualmente trabalho como Analista de Infraestrutura de TI numa empresa de Consultoria de Software.  
-:heart_eyes: Apaixonado por tecnologias Open Source.  
+<a href="https://github.com/ewerton-silva00/ewerton-silva00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewerton-silva00&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
-### Tecnologias
-
-:hammer: Docker | Kubernetes | Ansible | Prometheus | Gitlab-CI | PostgreSQL | Oracle Cloud Infraestructure  | Git  
-:snake: Aprendendo Python  
-
-![Ewerton Status](https://github-readme-stats.vercel.app/api?username=ewerton-silva00&show_icons=true)
+<a href="https://github.com/ewerton-silva00/ewerton-silva00">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ewerton-silva00&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ewerton's GitHub Stats" />
+</a>
