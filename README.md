@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Hello, folks! :wave:
+=======
+# Hello, folks! :wave
+>>>>>>> 7af32739e80c823c9e056d4578c0027e14dee733
 
 My name is `Ewerton Silva` and I'm a [`Site Reliability Engineer`](https://sre.google/). I'm from Brazil, living in Natal/RN. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/).
 
