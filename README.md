@@ -1,6 +1,6 @@
 # Hello, folks! :wave:
 
-My name is `Ewerton Silva` and I'm a [`Site Reliability Engineer`](https://sre.google/). I'm from Brazil, living in Natal/RN. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/).
+My name is `Ewerton Silva` and I'm a **Senior DevOps Engineer**. I'm from Brazil, living in Natal/RN. You can find me on [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewertonsilva00/)](https://www.linkedin.com/in/ewertonsilva00/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
